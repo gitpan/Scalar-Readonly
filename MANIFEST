@@ -8,3 +8,4 @@ t/simple.t
 lib/Scalar/Readonly.pm
 META.yml                                 Module meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
